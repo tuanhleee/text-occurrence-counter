@@ -3,7 +3,7 @@
 ##  Project Goal
 As part of the Algorithmics course (Licence 2 Informatique), this project aims to design and implement efficient data structures (custom hash table and binary tree) to filter and count occurrences of words/strings in large text files, while optimizing memory usage and execution time.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language & Libraries**: C (libc)
 - **Environment**: GCC on Linux, Geany IDE
 - **Data Source**: Large text files
@@ -19,7 +19,7 @@ As part of the Algorithmics course (Licence 2 Informatique), this project aims t
 - Iterative traversal of data structures
 - Strategies to minimize hash collisions
 
-## 📊Results
+## Results
 - Ranked 2nd in class for memory and runtime efficiency
 - Capable of processing large-scale text data with high performance
 
